@@ -1,0 +1,2 @@
+function wpcom_custom_jumplist_reader(){window.external.msSiteModeCreateJumplist("Recent posts");window.external.msSiteModeAddJumpListItem("","https://avventurain.wordpress.com/2020/04/02/17/","https://avventurain.files.wordpress.com/2020/04/cropped-18a5f917-0e5b-4947-96c6-7ca66ccfef3e-4627-0000024cfcb15d75-1.jpg?w=16");}
+try{if(window.external && 'msIsSiteMode' in window.external){if (window.external.msIsSiteMode()){wpcom_custom_jumplist_reader();wpcom_sitemode_comment_notify();}}}catch(e){}
